@@ -1,0 +1,10 @@
+ When we override a parent class method, the name, argument types, and return type of the overriding method in child class has to be exactly the same as that of the parent class method. The overriding method was said to be invariant with respect to return type. 
+
+Covarient return datatype wecan have a child return datatype
+
+No.of Argument /Type of Argument
+
+if the return type of overriding method in the subclass is a subtype(subclass) of the declared return type of overriding method instead of being exactly the same type, it is known as covarient return datatype in java
+
+TV purchase()//intead of this 
+SmartTv purchase()

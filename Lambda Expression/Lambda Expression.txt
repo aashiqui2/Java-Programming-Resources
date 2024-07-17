@@ -1,0 +1,67 @@
+Java 8* Features :Lambda Expressions
+
+1)Functional Programming
+2)Functional Interfaces
+3)Default Methods
+
+Funtion-methods
+Anonymous function-closure-lambda expression
+
+Anonymous Function-Method(motta kadithasi)
+
+function-method with no name
+
+Functional Programming-->Function
+(Concise Coding)(small coding)
+
+
+
+public void add(int no1,int no2)
+{
+System.out.pritln("no1+no2");
+}
+
+no need for
+1)Access Modifier
+2)return datatype
+3)Name
+
+
+Anonymous Function
+(int no1,int no2)->
+{
+System.out.pritln("no1+no2");
+}
+
+()->System.out.println("Hi");
+
+@Functionaliterface-->annotation
+Fnctional Interfaces:
+
+single abstract method-Functional Interface
+
+Runnable() -run()
+Callable() -call()
+Compareable() -compareTo()
+
+abstract X 1
+default  X n times
+static X n times
+
+Marker interface:
+RandomAccess->no method
+Serializable->no method
+Cloneable->no method
+
+
+
+(int no1,no2)->{return no1*no2;}
+
+(int no1,no2)->return no1*no2;
+
+(int no1,no2)-> no1*no2;
+
+Multiparadigm Programming Languages
+js,java,Python
+
+

@@ -1,0 +1,1 @@
+Dynamic binding, also known as late binding or runtime polymorphism, is a mechanism in object-oriented programming languages such as Java where the method to be executed is determined at runtime rather than at compile time.

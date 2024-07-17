@@ -1,0 +1,48 @@
+this can be used to refer current class instance variable.
+this can be used to invoke current class method (implicitly)
+this() can be used to invoke current class constructor.
+this can be passed as an argument in the method call.
+this can be passed as argument in the constructor call.
+this can be used to return the current class instance from the method.
+
+super()
+used to refer parent class constructor 
+
+super() must be first statement in derived class Constructor 
+
+if a constructor  does not  explicitly invoke  a superclass  constructor  by using super(),the java compiler automatically inserts a acall to the no-argument constructor of the super class 
+
+super() can call both parametric as well as non-parametric constructor depending upon the situation     
+
+super                  
+used to refer parent class object  
+
+calling object can be done at any time  
+
+if one does not  explicitly invoke  a superclass static variable or methods by using super keyword,then nothing happens(have to discuss)
+
+it is generally used to access the specific variable of a superclass.
+
+
+
+
+
+
+
+
+
+Diamond Problem:
+
+Father
+dowork()
+--Officer
+
+Mother
+dowork()
+-Doctor
+
+Child extends F,M
+
+ch.doWork();
+
+we cannot inherit more than one class 

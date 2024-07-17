@@ -1,0 +1,10 @@
+# Comparison Methods:
+1) equals()
+2) equalsIgnoreCase()
+3) compareTo()
+4) compareToIgnoreCase()
+5) startsWith(prefix,fromIndex)
+6) endsWith()
+7) contentEquals(charSeq)
+8) contentEquals(StringBuffer)
+9) contains()

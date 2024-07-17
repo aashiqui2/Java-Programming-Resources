@@ -1,0 +1,2 @@
+# Dot Opeartor
+Dot operator is a syntactic element, i.e. it denotes the separation between class and package, method and class, variable and reference variable. It can also be called as separator operator.

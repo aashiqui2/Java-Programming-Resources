@@ -1,0 +1,9 @@
+Any POJO class has follwing properties:
+
+*A java POJO class should be accessible to all the classes.it should be be declared public.
+
+*the variable declared in java POJO class should in private.
+
+*A java POJO class should contain a default construtor.
+
+*A java POJO class must provide getter and setter which should be declared public  to outer world interact with it easily.
