@@ -36,7 +36,7 @@ System.out.pritln("no1+no2");
 ()->System.out.println("Hi");
 
 @Functionaliterface-->annotation
-Fnctional Interfaces:
+Functional Interfaces:
 
 single abstract method-Functional Interface
 
