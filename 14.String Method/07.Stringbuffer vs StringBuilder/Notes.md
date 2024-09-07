@@ -32,3 +32,20 @@ parallel actions
 
 String Builder is not thread safe
 all methods are not  synchronized methods
+
+
+# Method (String Buffer)
+1) append()
+2) insert(offset,"char seq")
+3) reverse()
+4) deleteCharAt(index)
+5) replace(start,end,"char seq")
+6) hashCode()
+
+# Method (String Builder)
+1) append()
+2) insert(offset,"char seq")
+3) reverse()
+4) deleteCharAt(index)
+5) replace(start,end,"char seq")
+6) hashCode()

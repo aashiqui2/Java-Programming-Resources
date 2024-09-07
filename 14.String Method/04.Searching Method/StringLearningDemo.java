@@ -11,9 +11,9 @@ class StringLearningDemo{
 
         //! Search from reverse 
         //? if the index is not found it will return -1
-       System.out.println(s1.lastIndexOf("o"));
-       System.out.println(s1.lastIndexOf('m',9));
-       System.out.println(s1.lastIndexOf('m',2));
+    //    System.out.println(s1.lastIndexOf("o"));
+    //    System.out.println(s1.lastIndexOf('m',9));
+    //    System.out.println(s1.lastIndexOf('m',2));
 
     }
 }
