@@ -18,6 +18,7 @@ public class ArrayLearningDemo {
         for(int i=0;i<name.length;i++){
             System.out.println(name[i]);
         }
+        
         boolean[] result={true,false,true,false};
         for (int j = 0; j < result.length; j++) {
             System.out.println(result[j]);
