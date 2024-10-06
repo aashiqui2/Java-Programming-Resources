@@ -34,5 +34,5 @@ public class DemoClass {
 		System.out.println(email);
 		st.close();
 		con.close();
-	}s
+	}
 }
